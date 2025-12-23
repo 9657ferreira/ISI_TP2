@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\ISI\EsiTp2\EsiTp2.Client\bin\Debug\EsiTp2.Client.exe.config
+C:\Users\Utilizador\source\repos\ISI\EsiTp2\EsiTp2.Client\bin\Debug\EsiTp2.Client.exe
+C:\Users\Utilizador\source\repos\ISI\EsiTp2\EsiTp2.Client\bin\Debug\EsiTp2.Client.pdb
+C:\Users\Utilizador\source\repos\ISI\EsiTp2\EsiTp2.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Utilizador\source\repos\ISI\EsiTp2\EsiTp2.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Utilizador\source\repos\ISI\EsiTp2\EsiTp2.Client\obj\Debug\EsiTp2.Client.csproj.AssemblyReference.cache
+C:\Users\Utilizador\source\repos\ISI\EsiTp2\EsiTp2.Client\obj\Debug\EsiTp2.Client.LoginForm.resources
+C:\Users\Utilizador\source\repos\ISI\EsiTp2\EsiTp2.Client\obj\Debug\EsiTp2.Client.MainForm.resources
+C:\Users\Utilizador\source\repos\ISI\EsiTp2\EsiTp2.Client\obj\Debug\EsiTp2.Client.csproj.GenerateResource.cache
+C:\Users\Utilizador\source\repos\ISI\EsiTp2\EsiTp2.Client\obj\Debug\EsiTp2.Client.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\ISI\EsiTp2\EsiTp2.Client\obj\Debug\EsiTp2.C.FF806F28.Up2Date
+C:\Users\Utilizador\source\repos\ISI\EsiTp2\EsiTp2.Client\obj\Debug\EsiTp2.Client.exe
+C:\Users\Utilizador\source\repos\ISI\EsiTp2\EsiTp2.Client\obj\Debug\EsiTp2.Client.pdb
+C:\Users\Utilizador\source\repos\ISI\EsiTp2\EsiTp2.Client\obj\Debug\EsiTp2.Client.exe.config

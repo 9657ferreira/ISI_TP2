@@ -1,0 +1,23 @@
+﻿{
+  "Sensores.GetAll": "SELECT Id, IdCondominio, Tipo, Codigo, Descricao, Ativo FROM Sensores;",
+  "Sensores.GetById": "SELECT Id, IdCondominio, Tipo, Codigo, Descricao, Ativo FROM Sensores WHERE Id = @Id;",
+  "Sensores.Insert": "INSERT INTO Sensores (IdCondominio, Tipo, Codigo, Descricao, Ativo) VALUES (@IdCondominio, @Tipo, @Codigo, @Descricao, @Ativo);",
+  "Sensores.Update": "UPDATE Sensores SET IdCondominio = @IdCondominio, Tipo = @Tipo, Codigo = @Codigo, Descricao = @Descricao, Ativo = @Ativo WHERE Id = @Id;",
+  "Sensores.Delete": "DELETE FROM LeiturasSensores WHERE IdSensor = @Id; DELETE FROM Alertas WHERE IdSensor = @Id; DELETE FROM Sensores WHERE Id = @Id;",
+
+  "Alertas.GetAll": "SELECT Id, IdSensor, DataHora, Tipo, Descricao, Resolvido FROM Alertas;",
+  "Alertas.GetById": "SELECT Id, IdSensor, DataHora, Tipo, Descricao, Resolvido FROM Alertas WHERE Id = @Id;",
+
+  "Weather.Insert": "INSERT INTO WeatherLogs (Cidade, Temperatura, Humidade, Descricao, DataHora) VALUES (@Cidade, @Temperatura, @Humidade, @Descricao, @DataHora);",
+  "Weather.GetLastByCity": "SELECT TOP 1 Id, Cidade, Temperatura, Humidade, Descricao, DataHora FROM WeatherLogs WHERE Cidade = @Cidade ORDER BY DataHora DESC;",
+  "Weather.GetByDateAndCity": "SELECT TOP 1 Id, Cidade, Temperatura, Humidade, Descricao, DataHora FROM WeatherLogs WHERE Cidade = @Cidade AND CAST(DataHora AS DATE) = @Dia ORDER BY ABS(DATEDIFF(MINUTE, DataHora, @DiaHora));",
+
+  "Condominios.GetAll": "SELECT Id, Nome, Morada, CodigoPostal, Latitude, Longitude, Ativo FROM Condominios;",
+  "Condominios.GetById": "SELECT Id, Nome, Morada, CodigoPostal, Latitude, Longitude, Ativo FROM Condominios WHERE Id = @Id;",
+  "Condominios.Insert": "INSERT INTO Condominios (Nome, Morada, CodigoPostal, Latitude, Longitude, Ativo) VALUES (@Nome, @Morada, @CodigoPostal, @Latitude, @Longitude, @Ativo);",
+  "Condominios.Update": "UPDATE Condominios SET Nome = @Nome, Morada = @Morada, CodigoPostal = @CodigoPostal, Latitude = @Latitude, Longitude = @Longitude, Ativo = @Ativo WHERE Id = @Id;",
+  "Condominios.Delete": "DELETE FROM LeiturasSensores WHERE IdSensor IN (SELECT Id FROM Sensores WHERE IdCondominio = @Id); DELETE FROM Alertas WHERE IdSensor IN (SELECT Id FROM Sensores WHERE IdCondominio = @Id); DELETE FROM Sensores WHERE IdCondominio = @Id; DELETE FROM Condominios WHERE Id = @Id;",
+
+  "Auth.GetByUsername": "SELECT Id, Username, PasswordHash, Role, Ativo FROM Utilizadores WHERE Username = @Username;"
+
+}

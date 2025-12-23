@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zvMvQ4RB/jg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Utilizador\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

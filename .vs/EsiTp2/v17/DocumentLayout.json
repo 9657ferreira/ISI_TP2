@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51A2EC50-1EB8-4093-A3E5-741DD11898DB}|EsiTp2.Client\\EsiTp2.Client.csproj|c:\\users\\utilizador\\source\\repos\\isi\\esitp2\\esitp2.client\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A2EC50-1EB8-4093-A3E5-741DD11898DB}|EsiTp2.Client\\EsiTp2.Client.csproj|solutionrelative:esitp2.client\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A2EC50-1EB8-4093-A3E5-741DD11898DB}|EsiTp2.Client\\EsiTp2.Client.csproj|c:\\users\\utilizador\\source\\repos\\isi\\esitp2\\esitp2.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A2EC50-1EB8-4093-A3E5-741DD11898DB}|EsiTp2.Client\\EsiTp2.Client.csproj|solutionrelative:esitp2.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5A4543-838C-41A1-9F6B-5A7FF3DBC3D6}|EsiTp2.Api\\EsiTp2.Api.csproj|c:\\users\\utilizador\\source\\repos\\isi\\esitp2\\esitp2.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5A4543-838C-41A1-9F6B-5A7FF3DBC3D6}|EsiTp2.Api\\EsiTp2.Api.csproj|solutionrelative:esitp2.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC15F5D-89A7-4328-BC92-AB8DD7A0E5C1}|EsiTp2.Domain\\EsiTp2.Domain.csproj|c:\\users\\utilizador\\source\\repos\\isi\\esitp2\\esitp2.domain\\entities\\condominio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC15F5D-89A7-4328-BC92-AB8DD7A0E5C1}|EsiTp2.Domain\\EsiTp2.Domain.csproj|solutionrelative:esitp2.domain\\entities\\condominio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D08243-FD66-4E52-86CA-474A59BBA14D}|EsiTp2.Data\\EsiTp2.Data.csproj|C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\esitp2.data\\repositories\\condominiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D08243-FD66-4E52-86CA-474A59BBA14D}|EsiTp2.Data\\EsiTp2.Data.csproj|solutionrelative:esitp2.data\\repositories\\condominiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5A4543-838C-41A1-9F6B-5A7FF3DBC3D6}|EsiTp2.Api\\EsiTp2.Api.csproj|C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\esitp2.api\\app_data\\queries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF5A4543-838C-41A1-9F6B-5A7FF3DBC3D6}|EsiTp2.Api\\EsiTp2.Api.csproj|solutionrelative:esitp2.api\\app_data\\queries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A2EC50-1EB8-4093-A3E5-741DD11898DB}|EsiTp2.Client\\EsiTp2.Client.csproj|c:\\users\\utilizador\\source\\repos\\isi\\esitp2\\esitp2.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51A2EC50-1EB8-4093-A3E5-741DD11898DB}|EsiTp2.Client\\EsiTp2.Client.csproj|solutionrelative:esitp2.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A2EC50-1EB8-4093-A3E5-741DD11898DB}|EsiTp2.Client\\EsiTp2.Client.csproj|c:\\users\\utilizador\\source\\repos\\isi\\esitp2\\esitp2.client\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A2EC50-1EB8-4093-A3E5-741DD11898DB}|EsiTp2.Client\\EsiTp2.Client.csproj|solutionrelative:esitp2.client\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5A4543-838C-41A1-9F6B-5A7FF3DBC3D6}|EsiTp2.Api\\EsiTp2.Api.csproj|C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\esitp2.api\\controllers\\condominioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5A4543-838C-41A1-9F6B-5A7FF3DBC3D6}|EsiTp2.Api\\EsiTp2.Api.csproj|solutionrelative:esitp2.api\\controllers\\condominioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D08243-FD66-4E52-86CA-474A59BBA14D}|EsiTp2.Data\\EsiTp2.Data.csproj|C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\esitp2.data\\queries\\iquerystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D08243-FD66-4E52-86CA-474A59BBA14D}|EsiTp2.Data\\EsiTp2.Data.csproj|solutionrelative:esitp2.data\\queries\\iquerystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D08243-FD66-4E52-86CA-474A59BBA14D}|EsiTp2.Data\\EsiTp2.Data.csproj|C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\esitp2.data\\repositories\\sensoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D08243-FD66-4E52-86CA-474A59BBA14D}|EsiTp2.Data\\EsiTp2.Data.csproj|solutionrelative:esitp2.data\\repositories\\sensoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "queries.json",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\EsiTp2.Api\\App_Data\\queries.json",
+              "RelativeDocumentMoniker": "EsiTp2.Api\\App_Data\\queries.json",
+              "ToolTip": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\EsiTp2.Api\\App_Data\\queries.json",
+              "RelativeToolTip": "EsiTp2.Api\\App_Data\\queries.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-16T08:56:37.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SensoresRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\EsiTp2.Data\\Repositories\\SensoresRepository.cs",
+              "RelativeDocumentMoniker": "EsiTp2.Data\\Repositories\\SensoresRepository.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\EsiTp2.Data\\Repositories\\SensoresRepository.cs",
+              "RelativeToolTip": "EsiTp2.Data\\Repositories\\SensoresRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:32:57.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\EsiTp2.Client\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "EsiTp2.Client\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\EsiTp2.Client\\MainForm.Designer.cs",
+              "RelativeToolTip": "EsiTp2.Client\\MainForm.Designer.cs",
+              "ViewState": "AgIAAJABAAAAAAAAAADwv7ABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T14:15:37.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\EsiTp2.Api\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "EsiTp2.Api\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\EsiTp2.Api\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "EsiTp2.Api\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAArwDgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T16:37:28.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CondominioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\EsiTp2.Data\\Repositories\\CondominioRepository.cs",
+              "RelativeDocumentMoniker": "EsiTp2.Data\\Repositories\\CondominioRepository.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\EsiTp2.Data\\Repositories\\CondominioRepository.cs",
+              "RelativeToolTip": "EsiTp2.Data\\Repositories\\CondominioRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAhwB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:32:54.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\EsiTp2.Client\\MainForm.cs",
+              "RelativeDocumentMoniker": "EsiTp2.Client\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\EsiTp2.Client\\MainForm.cs",
+              "RelativeToolTip": "EsiTp2.Client\\MainForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T14:15:28.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Condominio.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\EsiTp2.Domain\\Entities\\Condominio.cs",
+              "RelativeDocumentMoniker": "EsiTp2.Domain\\Entities\\Condominio.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\EsiTp2.Domain\\Entities\\Condominio.cs",
+              "RelativeToolTip": "EsiTp2.Domain\\Entities\\Condominio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T16:21:01.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\EsiTp2.Client\\ApiClient.cs",
+              "RelativeDocumentMoniker": "EsiTp2.Client\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\EsiTp2.Client\\ApiClient.cs",
+              "RelativeToolTip": "EsiTp2.Client\\ApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T14:03:11.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CondominiosController.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\EsiTp2.Api\\Controllers\\CondominiosController.cs",
+              "RelativeDocumentMoniker": "EsiTp2.Api\\Controllers\\CondominiosController.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\EsiTp2.Api\\Controllers\\CondominiosController.cs",
+              "RelativeToolTip": "EsiTp2.Api\\Controllers\\CondominiosController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvzoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T19:06:54.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IQueryStore.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\EsiTp2.Data\\Queries\\IQueryStore.cs",
+              "RelativeDocumentMoniker": "EsiTp2.Data\\Queries\\IQueryStore.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\EsiTp2.Data\\Queries\\IQueryStore.cs",
+              "RelativeToolTip": "EsiTp2.Data\\Queries\\IQueryStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:55:12.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\EsiTp2.Client\\MainForm.cs",
+              "RelativeDocumentMoniker": "EsiTp2.Client\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\source\\repos\\ISI\\EsiTp2\\EsiTp2.Client\\MainForm.cs [Design]",
+              "RelativeToolTip": "EsiTp2.Client\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T13:50:33.306Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
